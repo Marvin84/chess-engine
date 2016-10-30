@@ -1,3 +1,4 @@
 # chess-engine
 
-This is a chess engine with only pawns that can promote to become queen. The game is won by who does the first promotion.
+This Chess Engine for only pawns was written as a backend for an iOS application.
+Every pawn can promote to queen and the game is won by the first player who can promote a pawn.
